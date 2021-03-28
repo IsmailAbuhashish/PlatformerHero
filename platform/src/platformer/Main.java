@@ -3,7 +3,7 @@ package platformer;
 //Faris Al-Natsheh,Ismail AbuHashish, Nadeem Jouaneh
 //Ms. Bdour AlZeer
 //Group project
-
+//added code
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;

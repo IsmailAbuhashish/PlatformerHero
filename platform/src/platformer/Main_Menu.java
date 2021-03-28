@@ -13,9 +13,9 @@ import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
 
 //Ismail, Faris, Nadeem
-//Date: 21/3/2021
+//Date: 28/3/2021
 public class Main_Menu implements ActionListener, ItemListener {
-	JTextArea h,w; int i;
+	JTextArea h,w;
 	JLabel x;
 	JButton btn;
 	JCheckBox checkbox1;
